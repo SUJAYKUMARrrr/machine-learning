@@ -1,2 +1,2 @@
-# machine-learing
+# machine-learning
 first lecture
