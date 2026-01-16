@@ -1,6 +1,6 @@
 # machine-learning
 first lecture
 second lecture
-<n/>
+<br>
 feature scaling
 
