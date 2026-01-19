@@ -4,3 +4,5 @@ second lecture
 <br>
 feature scaling
 
+<br>
+1 minmax scaler
